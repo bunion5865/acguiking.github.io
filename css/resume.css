@@ -174,3 +174,8 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.wheel1 img {
+    width:50%;
+    height: 230px;
+}
