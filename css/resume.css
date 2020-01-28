@@ -36,6 +36,7 @@ h1 {
 
 h2 {
   font-size: 3.5rem;
+  color: #838383;
 }
 
 h3 {
@@ -72,7 +73,7 @@ p.lead {
 }
 
 .social-icons a:hover {
-  background-color: #BD5D38;
+  background-color: #1968D7;
 }
 
 .dev-icons {
@@ -80,7 +81,7 @@ p.lead {
 }
 
 .dev-icons .list-inline-item i:hover {
-  color: #BD5D38;
+  color: #1968D7;
 }
 
 #sideNav .navbar-nav .nav-item .nav-link {
@@ -110,9 +111,9 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 10rem;
-    max-height: 10rem;
-    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    max-width: 50%;
+    max-height: 50%;
+    /*border: 0.5rem solid rgba(255, 255, 255, 0.2);*/
   }
   #sideNav .navbar-collapse {
     display: flex;
@@ -167,6 +168,11 @@ section.resume-section .resume-item .resume-date {
   color: #1968D7 !important;
 }
 
+fa-ul {
+  list-style: none !important;
+  padding-left: 0 !important;
+}
+
 a {
   color: #1968D7;
 }
@@ -176,6 +182,6 @@ a:hover, a:focus, a:active {
 }
 
 .wheel1 img {
-    width:50%;
-    height: 230px;
+    max-width:50%;
+    max-height: 230px;
 }
