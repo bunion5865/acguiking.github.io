@@ -10,7 +10,7 @@ body {
   color: #868e96;
 }
 
-@media (min-width: 992px) {
+@media (min-width: 950px) {
   body {
     padding-top: 0;
     padding-left: 17rem;
@@ -156,7 +156,7 @@ section.resume-section .resume-item .resume-date {
   }
 }
 
-@media (min-width: 992px) {
+@media (min-width: 950px) {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
@@ -189,7 +189,6 @@ a:hover, a:focus, a:active {
   color: #824027;
 }
 
-.wheel1 img {
-    max-width:50%;
-    max-height: 230px;
+img {
+    image-orientation: from-image;
 }
