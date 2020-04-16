@@ -1,3 +1,2 @@
-Hello!
-
-My name is Ceejay!
+# Aurelio Ceejay Guiking
+## Graduated May 2020
