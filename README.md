@@ -1,2 +1,3 @@
 # Aurelio Ceejay Guiking
-## Graduated May 2020
+## UNLV Computer Science Graduate
+### Website Portfolio
